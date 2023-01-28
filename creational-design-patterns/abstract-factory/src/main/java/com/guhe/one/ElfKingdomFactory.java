@@ -6,7 +6,7 @@ package com.guhe.one;
  * @author njl
  * @date 2023/1/28
  */
-public class ElfKingdomFactory implements KingdomFactory{
+public class ElfKingdomFactory implements KingdomFactory {
 	@Override
 	public Castle createCastle() {
 		return new ElfCastle();

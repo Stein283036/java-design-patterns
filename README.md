@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This repository includes my learning notes specialized in design patterns. It mainly covers all design patterns mentioned in the Gof book.
+This repository includes my learning notes specialized in design patterns. It mainly covers all design patterns
+mentioned in the Gof book.
 
 ## References
 
