@@ -15,6 +15,7 @@
         <module>creational-design-patterns/factory-method</module>
         <module>creational-design-patterns/abstract-factory</module>
         <module>structural-design-patterns/adapter</module>
+        <module>structural-design-patterns/Bridge</module>
     </modules>
 
     <properties>
