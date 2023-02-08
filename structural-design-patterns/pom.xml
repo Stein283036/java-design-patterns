@@ -10,6 +10,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>structural-design-patterns</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>decorator</module>
+        <module>facade</module>
+        <module>flyweight</module>
+        <module>proxy</module>
+        <module>composite</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
