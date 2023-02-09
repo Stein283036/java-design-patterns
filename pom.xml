@@ -16,6 +16,8 @@
         <module>creational-design-patterns/abstract-factory</module>
         <module>structural-design-patterns/adapter</module>
         <module>structural-design-patterns/Bridge</module>
+        <module>behavioral-design-patterns</module>
+        <module>behavioral-design-patterns/chain-of-responsibility</module>
     </modules>
 
     <properties>
