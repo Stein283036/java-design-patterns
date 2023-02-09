@@ -18,6 +18,7 @@
         <module>structural-design-patterns/Bridge</module>
         <module>behavioral-design-patterns</module>
         <module>behavioral-design-patterns/chain-of-responsibility</module>
+        <module>behavioral-design-patterns/command</module>
     </modules>
 
     <properties>
