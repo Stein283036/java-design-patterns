@@ -6,6 +6,14 @@ package com.guhe.one;
  */
 public class App {
 	public static void main(String[] args) {
+		Wizard wizard = new Wizard();
+		Goblin goblin = new Goblin();
 
+		goblin.printStatus();
+		wizard.castSpell(goblin::changeSize);
+		wizard.castSpell(goblin::changeVisibility);
+		wizard.undoLastSpell();
+//		wizard.redoLastSpell();
+		goblin.printStatus();
 	}
 }
